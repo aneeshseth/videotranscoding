@@ -2,6 +2,9 @@
 
 Video Transcoding using FFmpeg in NodeJS and NextJS 13
 
+<img width="1231" alt="image" src="https://github.com/aneeshseth/videotranscoding/assets/122401851/1298ab82-ccbd-4cdf-bd31-35997ccca56d">
+
+
 ![image](https://github.com/aneeshseth/videotranscoding/assets/122401851/d61da63b-47cb-4765-8cbd-15717fb814cc)
 ![image](https://github.com/aneeshseth/videotranscoding/assets/122401851/094f5ed0-3703-4f11-8ef4-126a124a298a)
 ![image](https://github.com/aneeshseth/videotranscoding/assets/122401851/fdee7f09-78b4-4711-9d22-e2a4f27f2dac)
