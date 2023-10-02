@@ -1,8 +1,8 @@
 # Video Transcoding
 
-Video Transcoding using FFmpeg in NodeJS and NextJS 13
-
 <img width="1231" alt="image" src="https://github.com/aneeshseth/videotranscoding/assets/122401851/1298ab82-ccbd-4cdf-bd31-35997ccca56d">
+
+A video transcoder made using NextJS 13 and ExpressJS on the backend, using Ffmpeg.
 
 
 ![image](https://github.com/aneeshseth/videotranscoding/assets/122401851/d61da63b-47cb-4765-8cbd-15717fb814cc)
